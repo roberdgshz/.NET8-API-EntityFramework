@@ -9,6 +9,6 @@ namespace SuperHeroAPI_DotNet8.Data
         {
         
         }
-    public DbSet<SuperHero> SuperHeroes { get; set; }
+        public DbSet<SuperHero> SuperHeroes { get; set; }
     }
 }
