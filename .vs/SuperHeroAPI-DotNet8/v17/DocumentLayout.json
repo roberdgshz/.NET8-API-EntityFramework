@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Trabajos\\Visual Studio\\C#\\.Net projects\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|e:\\trabajos\\visual studio\\c#\\.net projects\\superheroapi-dotnet8\\superheroapi-dotnet8\\superheroapi-dotnet8\\migrations\\20240704000648_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\migrations\\20240704000648_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|e:\\trabajos\\visual studio\\c#\\.net projects\\superheroapi-dotnet8\\superheroapi-dotnet8\\superheroapi-dotnet8\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|e:\\trabajos\\visual studio\\c#\\.net projects\\superheroapi-dotnet8\\superheroapi-dotnet8\\superheroapi-dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|e:\\trabajos\\visual studio\\c#\\.net projects\\superheroapi-dotnet8\\superheroapi-dotnet8\\superheroapi-dotnet8\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\entities\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|e:\\trabajos\\visual studio\\c#\\.net projects\\superheroapi-dotnet8\\superheroapi-dotnet8\\superheroapi-dotnet8\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|e:\\trabajos\\visual studio\\c#\\.net projects\\superheroapi-dotnet8\\superheroapi-dotnet8\\superheroapi-dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305816E6-5B0E-424E-96BB-EB0263B74C35}|SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8.csproj|solutionrelative:superheroapi-dotnet8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,6 +34,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "E:\\Trabajos\\Visual Studio\\C#\\.Net projects\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Entities\\SuperHero.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Entities\\SuperHero.cs",
+              "ToolTip": "E:\\Trabajos\\Visual Studio\\C#\\.Net projects\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Entities\\SuperHero.cs",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Entities\\SuperHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:54:41.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuperHeroController.cs",
+              "DocumentMoniker": "E:\\Trabajos\\Visual Studio\\C#\\.Net projects\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
+              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
+              "ToolTip": "E:\\Trabajos\\Visual Studio\\C#\\.Net projects\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
+              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Controllers\\SuperHeroController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwC4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:30:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DataContext.cs",
               "DocumentMoniker": "E:\\Trabajos\\Visual Studio\\C#\\.Net projects\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Data\\DataContext.cs",
@@ -38,25 +67,11 @@
               "RelativeToolTip": "SuperHeroAPI-DotNet8\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T00:21:12.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T00:21:12.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240704000648_Initial.cs",
-              "DocumentMoniker": "E:\\Trabajos\\Visual Studio\\C#\\.Net projects\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Migrations\\20240704000648_Initial.cs",
-              "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Migrations\\20240704000648_Initial.cs",
-              "ToolTip": "E:\\Trabajos\\Visual Studio\\C#\\.Net projects\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Migrations\\20240704000648_Initial.cs",
-              "RelativeToolTip": "SuperHeroAPI-DotNet8\\Migrations\\20240704000648_Initial.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T00:06:48.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Trabajos\\Visual Studio\\C#\\.Net projects\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\SuperHeroAPI-DotNet8\\Program.cs",
               "RelativeDocumentMoniker": "SuperHeroAPI-DotNet8\\Program.cs",
@@ -64,8 +79,7 @@
               "RelativeToolTip": "SuperHeroAPI-DotNet8\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T23:54:00.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T23:54:00.925Z"
             }
           ]
         }
